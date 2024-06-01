@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="true"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="32767" attributes="0"/>
+                      <Component id="add_patient_no_family_button" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="add_patient_cancel_button" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="8" max="-2" attributes="0"/>
+                      <Component id="add_patient_add_patient_button" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                          <Component id="add_patient_password_label" alignment="0" max="32767" attributes="0"/>
+                          <Component id="add_patient_patient_ıd_label" alignment="0" max="32767" attributes="0"/>
+                          <Component id="add_patient_f_name_label" alignment="0" pref="150" max="32767" attributes="0"/>
+                          <Component id="add_patient_m_name_label" alignment="0" max="32767" attributes="0"/>
+                          <Component id="add_patient_l_name_label" alignment="0" max="32767" attributes="0"/>
+                          <Component id="add_patient_age_label" alignment="0" max="32767" attributes="0"/>
+                          <Component id="add_patient_sex_label" alignment="0" max="32767" attributes="0"/>
+                          <Component id="add_patient_address_label" alignment="0" max="32767" attributes="0"/>
+                          <Component id="add_patient_phone_label" alignment="0" max="32767" attributes="0"/>
+                          <Component id="add_patient_mail_label" alignment="0" max="32767" attributes="0"/>
+                          <Component id="add_patient_blood_label" alignment="0" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="add_patient_m_name_textfield" max="32767" attributes="0"/>
+                          <Component id="add_patient_f_name_textfield" max="32767" attributes="0"/>
+                          <Component id="add_patient_l_name_textfield" max="32767" attributes="0"/>
+                          <Component id="add_patient_age_textfield" max="32767" attributes="0"/>
+                          <Component id="add_patient_address_textfield" max="32767" attributes="0"/>
+                          <Component id="add_patient_phone_textfield" max="32767" attributes="0"/>
+                          <Component id="add_patient_mail_textfield" max="32767" attributes="0"/>
+                          <Component id="add_patient_blood_textfield" max="32767" attributes="0"/>
+                          <Component id="add_patient_patient_ıd_textfield" max="32767" attributes="0"/>
+                          <Component id="add_patient_password_textfield" max="32767" attributes="0"/>
+                          <Group type="102" attributes="0">
+                              <Component id="add_patient_male_radiobutton" min="-2" pref="98" max="-2" attributes="0"/>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Component id="add_patient_female_radiobutton" min="-2" pref="98" max="-2" attributes="0"/>
+                              <EmptySpace min="0" pref="16" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Component id="add_patient_f_name_label" pref="30" max="32767" attributes="0"/>
+                  <Component id="add_patient_f_name_textfield" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Component id="add_patient_m_name_textfield" pref="30" max="32767" attributes="0"/>
+                  <Component id="add_patient_m_name_label" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Component id="add_patient_l_name_textfield" pref="30" max="32767" attributes="0"/>
+                  <Component id="add_patient_l_name_label" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Component id="add_patient_age_textfield" pref="30" max="32767" attributes="0"/>
+                  <Component id="add_patient_age_label" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="add_patient_sex_label" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="add_patient_male_radiobutton" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="add_patient_female_radiobutton" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Component id="add_patient_address_textfield" pref="30" max="32767" attributes="0"/>
+                  <Component id="add_patient_address_label" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Component id="add_patient_phone_textfield" pref="30" max="32767" attributes="0"/>
+                  <Component id="add_patient_phone_label" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Component id="add_patient_mail_textfield" pref="30" max="32767" attributes="0"/>
+                  <Component id="add_patient_mail_label" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="add_patient_blood_textfield" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="add_patient_blood_label" alignment="3" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Component id="add_patient_patient_ıd_label" max="32767" attributes="0"/>
+                  <Component id="add_patient_patient_ıd_textfield" pref="28" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Component id="add_patient_password_label" min="-2" pref="28" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="6" max="32767" attributes="0"/>
+                  </Group>
+                  <Component id="add_patient_password_textfield" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                      <Component id="add_patient_add_patient_button" alignment="1" pref="33" max="32767" attributes="0"/>
+                      <Component id="add_patient_no_family_button" alignment="0" max="32767" attributes="0"/>
+                      <Component id="add_patient_cancel_button" alignment="0" max="32767" attributes="0"/>
+                  </Group>
+                  <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="add_patient_f_name_label">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="text" type="java.lang.String" value="First Name"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="add_patient_m_name_label">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="text" type="java.lang.String" value="Middle Name"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="add_patient_l_name_label">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="text" type="java.lang.String" value="Last Name"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="add_patient_age_label">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="text" type="java.lang.String" value="Age"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="add_patient_sex_label">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="text" type="java.lang.String" value="Sex"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="add_patient_address_label">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="text" type="java.lang.String" value="Address(City, Street, Postal)"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="add_patient_phone_label">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="text" type="java.lang.String" value="Phone Number"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="add_patient_mail_label">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="text" type="java.lang.String" value="Mail"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="add_patient_blood_label">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="text" type="java.lang.String" value="Blood Type"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="add_patient_m_name_textfield">
+    </Component>
+    <Component class="javax.swing.JTextField" name="add_patient_f_name_textfield">
+    </Component>
+    <Component class="javax.swing.JTextField" name="add_patient_l_name_textfield">
+    </Component>
+    <Component class="javax.swing.JTextField" name="add_patient_age_textfield">
+    </Component>
+    <Component class="javax.swing.JTextField" name="add_patient_address_textfield">
+    </Component>
+    <Component class="javax.swing.JTextField" name="add_patient_phone_textfield">
+    </Component>
+    <Component class="javax.swing.JTextField" name="add_patient_mail_textfield">
+    </Component>
+    <Component class="javax.swing.JTextField" name="add_patient_blood_textfield">
+    </Component>
+    <Component class="javax.swing.JButton" name="add_patient_add_patient_button">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Add Patient Information"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="add_patient_add_patient_buttonActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="add_patient_cancel_button">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Cancel"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="add_patient_cancel_buttonActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="add_patient_no_family_button">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="No Family"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="add_patient_no_family_buttonActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="add_patient_patient_&#x131;d_label">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="text" type="java.lang.String" value="Patient ID"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="add_patient_patient_&#x131;d_textfield">
+    </Component>
+    <Component class="javax.swing.JLabel" name="add_patient_password_label">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="text" type="java.lang.String" value="Password"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="add_patient_password_textfield">
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="add_patient_male_radiobutton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Male"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="add_patient_male_radiobuttonActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="add_patient_female_radiobutton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Female"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="add_patient_female_radiobuttonActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="?"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>
